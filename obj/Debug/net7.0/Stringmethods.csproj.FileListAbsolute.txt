@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\bin\Debug\net7.0\Stringmethods.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\bin\Debug\net7.0\Stringmethods.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\bin\Debug\net7.0\Stringmethods.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\bin\Debug\net7.0\Stringmethods.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\bin\Debug\net7.0\Stringmethods.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\refint\Stringmethods.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\Stringmethods.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Stringmethods\obj\Debug\net7.0\ref\Stringmethods.dll
